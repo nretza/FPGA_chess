@@ -1,3 +1,5 @@
+///////////// aus LAB /////////////////////////
+
 // Authors: C. Terman, I. Chuang // MIT Lab Course 6.111
 
 module xvga (clk_65, hcount, vcount, hsync, vsync, blank);

@@ -1,3 +1,5 @@
+///////////// aus LAB /////////////////////////
+
 module ps2decoder (clock_27mhz, reset, clock, data, ascii, ascii_ready);
 
 // Author: C. Terman, 6.111 Course, MIT
